@@ -5,6 +5,7 @@ body{
 	margin: 0;
 	padding: 0;
 	text-align: justify;
+	font-family: Cuanalo Bold;
 
 }
 
@@ -64,16 +65,12 @@ img{
 
 #one h2{
 	color:rgb(250,204,248);
-	font-family: 'Monoton', cursive;
-	font-size: 25px;
-}
+	}
 
 #two h2{
 	color:rgb(250,204,248);
-	font-family: 'Monoton', cursive;
 }
 
 #three h2{
 	color:rgb(250,204,248);
-	font-family: 'Monoton', cursive;
 }

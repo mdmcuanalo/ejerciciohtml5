@@ -2,7 +2,6 @@ body{
 	background: url('images/fondo.jpg') no-repeat center center fixed;
 	background-size: cover;
 	color: white;
-	font-family: font-family: 'Monoton', cursive;;
 	margin: 0;
 	padding: 0;
 	text-align: justify;
@@ -19,6 +18,7 @@ margin: 0 auto;
 	font-size: 35px;
 	text-align:center;
 	color: rgb(250,204,248);
+	font-family: 'Monoton', cursive;
 
 }
 
